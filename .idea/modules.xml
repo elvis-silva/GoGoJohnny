@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoGoJohnny.iml" filepath="$PROJECT_DIR$/GoGoJohnny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengine/andengine.iml" filepath="$PROJECT_DIR$/andengine/andengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andengineextensionphysicsbox2d/andengineextensionphysicsbox2d.iml" filepath="$PROJECT_DIR$/andengineextensionphysicsbox2d/andengineextensionphysicsbox2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gogojohnny/gogojohnny.iml" filepath="$PROJECT_DIR$/gogojohnny/gogojohnny.iml" />
+    </modules>
+  </component>
+</project>
+
